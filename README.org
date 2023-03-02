@@ -11,12 +11,6 @@
               alt="License"
       /></a>
 
-  <!-- Repository Size -->
-  <a href="https://github.com/Federico-II-Informatica/III-ANNO/archive/refs/heads/main.zip"><img
-        src="https://img.shields.io/github/repo-size/Federico-II-Informatica/III-ANNO?style=for-the-badge"
-        alt="GitHub repository size"
-    /></a>
-
   <!-- Last Commit -->
   <a href="https://github.com/Federico-II-Informatica/III-ANNO/commits/main"
     ><img
@@ -26,6 +20,6 @@
 
 </div>
 
-<h1 align="center">Appunti della laurea triennale in Informatica - 1° anno</h1>
+<h1 align="center">Appunti della laurea triennale in Informatica - 3° anno</h1>
 <h2 align="center">Federico II</h2>
 #+END_HTML
